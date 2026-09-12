@@ -19,4 +19,5 @@
 
 ---
 **Figma**
-https://www.figma.com/design/ES5oKcabl3y1XG6TK4fChz/%D0%9A%D0%BB%D1%8E%D1%87%D0%BD%D0%B8%D0%BA?m=auto&t=xGO1xb97EntgBUxZ-6
+
+https://www.figma.com/design/ES5oKcabl3y1XG6TK4fChz/%D0%9A%D0%BB%D1%8E%D1%87%D0%BD%D0%B8%D0%BA?node-id=345-489&t=dLoYqr7ZfUMbK2Xy-1
